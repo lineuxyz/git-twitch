@@ -15,9 +15,9 @@ Mostrar como eu posso ignorar arquivos do meu projeto(x)
 Mostrar outra forma de adicionar arquvios(x)
 Adicionar uma outra branchs(x)
 Mostrar todas as branchs(x)
-Resolver um conflito criado por não ter a versão mais recente()
+Resolver um conflito criado por não ter a versão mais recente(x)
 
-Visualizar meu historico de commit()
+Visualizar meu historico de commit(x)
 
 Fazer um readme bonito para meu repositorio()
 Dar uma boa descrição de que é meu repositorio()
